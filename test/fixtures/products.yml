@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  id: 1
+  name: MyString
+  desc: MyText
+  sub_category: 
+  production_date: 2012-08-03
+  exp_date: 2012-08-03
+
+two:
+  id: 1
+  name: MyString
+  desc: MyText
+  sub_category: 
+  production_date: 2012-08-03
+  exp_date: 2012-08-03
